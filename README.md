@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @El3ri0
+- 👀 I’m interested in programmation
+- 🌱 I’m currently learning C++
